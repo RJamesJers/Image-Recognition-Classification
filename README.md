@@ -52,4 +52,4 @@ Tasks undertaken:
 
 
 ### Best Model
-LDA
+- Logistic Regression
