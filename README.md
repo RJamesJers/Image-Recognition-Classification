@@ -35,7 +35,7 @@ Tasks undertaken:
 ### 3. Model Evaluation
 Tasks undertaken:
 
-- To find ideal performance compared 7 differnet models:
+- To find ideal performance compared 7 different models:
 
 -- Log Regression
 -- LDA
