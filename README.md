@@ -46,3 +46,10 @@ Tasks undertaken:
 -- GaussianNB
 
 - Evaluated all Models Performances to find ideal Model
+
+# Overall Findings
+
+
+
+### Best Model
+LDA
