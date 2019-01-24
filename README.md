@@ -50,6 +50,7 @@ Tasks undertaken:
 # Overall Findings
 
 - Cross Validation significantly improved results
+- The Ideal PCA number of dimensions was 110
 
 ### Best Model
-- Logistic Regression
+- Linear Discriminant Analysis (LDA)
