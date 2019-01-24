@@ -10,9 +10,20 @@ The Task was split into 3 sections:
 3. Evaluate the Model to understand
 
 ### 1. Undertand the Data
+Methods used:
+
+- Basixc Data Exploration
+
+- Print Images
+
+- Create Test Train Split
 
 
 ### 2. Build Model Tuition
+Methods used:
 
+- Created a Scikit-Learn pipeline using PCA and Logistic Regression 
+
+- 
 
 ### 3. Model Evaluation
