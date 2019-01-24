@@ -49,7 +49,7 @@ Tasks undertaken:
 
 # Overall Findings
 
-
+- Cross Validation significantly improved results
 
 ### Best Model
 - Logistic Regression
