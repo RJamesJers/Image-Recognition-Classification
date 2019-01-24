@@ -9,8 +9,8 @@ The Task was split into 3 sections:
 
 3. Evaluate the Model to understand
 
-### 1. Undertand the Data
-Methods used:
+### 1. Understand the Data
+Tasks undertaken:
 
 - Basixc Data Exploration
 
@@ -20,10 +20,30 @@ Methods used:
 
 
 ### 2. Build Model Tuition
-Methods used:
+Tasks undertaken:
 
-- Created a Scikit-Learn pipeline using PCA and Logistic Regression 
+- Created a Scikit-Learn pipeline to explore data splitting prep including: 
+-- using PCA and Logistic Regression 
 
-- 
+-- using ShuffleSplit
+
+-- using K-Fold
+
+- Evaluated performance of all techniques
+
+- Explored what level of Dimension reduction is appropriate
 
 ### 3. Model Evaluation
+Tasks undertaken:
+
+- To find ideal performance compared 7 differnet models:
+
+-- Log Regression
+-- LDA
+-- SVM
+-- Neural Networks
+-- Random Forest Classifier
+-- K-NN Classifier
+-- GaussianNB
+
+- Evaluated all Models Performances to find ideal Model
