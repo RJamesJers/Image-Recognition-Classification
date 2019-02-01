@@ -20,7 +20,7 @@ Tasks undertaken:
 --- Repeated Random Train-Split,     
 --- K-Fold Cross Validation,     
 
-- Evaluated performance of all techniques
+- Evaluated performance of all techniques using Linear Regression
 
 - Explored what level of Dimension reduction is appropriate
 
