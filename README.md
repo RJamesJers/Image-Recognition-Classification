@@ -3,23 +3,15 @@ Assignment 1 of my Practical Machine Learning module completed as part of my Mas
 
 The Task was split into 3 sections:
 
-1. Examine and Understand the Data
-
-2. Build a Model to
-
-3. Evaluate the Model to understand
-
 ### 1. Understand the Data
 Tasks undertaken:
 
-- Basixc Data Exploration
-
-- Print Images
+- Basic Data Exploration
 
 - Create Test Train Split
 
 
-### 2. Build Model Tuition
+### 2. Build Model to classify data
 Tasks undertaken:
 
 - Created a Scikit-Learn pipeline to explore data splitting prep including: 
