@@ -16,9 +16,9 @@ Tasks undertaken:
 
 - Created a Scikit-Learn pipeline to explore data splitting prep including: 
 
---- PCA and Logistic Regression,
---- ShuffleSplit,
---- K-Fold,
+--- PCA and Logistic Regression,     
+--- ShuffleSplit,     
+--- K-Fold,     
 
 - Evaluated performance of all techniques
 
@@ -29,13 +29,13 @@ Tasks undertaken:
 
 - To find ideal performance compared 7 different models:
 
---- Log Regression
---- LDA
---- SVM
---- Neural Networks
---- Random Forest Classifier
---- K-NN Classifier
---- GaussianNB
+--- Log Regression     
+--- LDA     
+--- SVM     
+--- Neural Networks     
+--- Random Forest Classifier     
+--- K-NN Classifier     
+--- GaussianNB     
 
 - Evaluated all Models Performances to find ideal Model
 
