@@ -8,7 +8,7 @@ Tasks undertaken:
 
 - Basic Data Exploration
 
-- Create Test Train Split
+- Create basic Test Train Split
 
 
 ### 2. Build Model to classify data
