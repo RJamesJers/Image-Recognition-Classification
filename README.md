@@ -16,9 +16,9 @@ Tasks undertaken:
 
 - Created a Scikit-Learn pipeline to explore data splitting prep including: 
 
-PCA and Logistic Regression, 
-ShuffleSplit,
-K-Fold,
+- PCA and Logistic Regression,      
+- ShuffleSplit,     
+- K-Fold,     
 
 - Evaluated performance of all techniques
 
