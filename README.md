@@ -45,4 +45,4 @@ Tasks undertaken:
 - The Ideal PCA number of dimensions was 110
 
 ### Best Model
-- Linear Discriminant Analysis (LDA)
+- Linear Discriminant Analysis (LDA) with ~80% Accuracy
